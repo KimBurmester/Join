@@ -1,4 +1,4 @@
-const BASE_URL = "https://testjoin-36a23-default-rtdb.europe-west1.firebasedatabase.app/user/";
+const BASE_URL = "https://join-kb-default-rtdb.europe-west1.firebasedatabase.app/user/";
 
 let contacts = [];
 let taskList = [];
